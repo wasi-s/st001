@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="TSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kPkDTA1GqxLOlSHsXRLTVpzbaWXH-1lGasnUcf7GY3MTpfp6qpOolMw&s=10", LIVE 1
+https://live.tsports.com/mobile_hls/tsports_live_1/index.m3u8
+
+#EXTINF:-1 group-title="TSports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kPkDTA1GqxLOlSHsXRLTVpzbaWXH-1lGasnUcf7GY3MTpfp6qpOolMw&s=10", LIVE 2 
+https://live.tsports.com/mobile_hls/tsports_live_2/index.m3u8
