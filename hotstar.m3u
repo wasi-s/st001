@@ -1,0 +1,8 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#DEVELOPED_BY_DOCTOR_STRANGE
+#AUTHOR:-DOCTOR_STRANGE
+#
+#EXTINF:-1 tvg-id="1540040592" tvg-name="Hindi|IPL at 18: Final Countdown" tvg-language="Hindi" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/3947/1742557253947-h" group-title="2 Languages", Hindi|IPL at 18: Final Countdown
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
+#EXTINF:-1 tvg-id="1540040592" tvg-name="English|IPL at 18: Final Countdown" tvg-language="English" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/3947/1742557253947-h" group-title="2 Languages", English|IPL at 18: Final Countdown
+https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8
