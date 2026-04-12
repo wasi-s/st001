@@ -1,1 +1,638 @@
-{"links":[{\"name\":\"12Apr 11:00 Feirense x Vizela\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 11:15 Fortuna Sittard x NAC Breda\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 11:30 Genoa x Sassuolo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd7.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 11:30 Genoa x Sassuolo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 12:00 Birmingham City x Wrexham\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 12:00 Birmingham City x Wrexham\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 12:00 Falkirk x Rangers\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 12:30 Elversberg x Schalke 04\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 12:30 Elversberg x Schalke 04\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 13:00 Osasuna x Real Betis\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 13:00 Osasuna x Real Betis\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 13:30 NEC x Feyenoord\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Sunderland x Tottenham Hotspur\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Sunderland x Tottenham Hotspur\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Sunderland x Tottenham Hotspur\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Nottingham Forest x Aston Villa\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Nottingham Forest x Aston Villa\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Crystal Palace x Newcastle United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Parma x Napoli\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd7.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Parma x Napoli\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Tennis - ATP World Tour 1000: Monte Carlo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:00 Tennis - ATP World Tour 1000: Monte Carlo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:30 Köln x Werder Bremen\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 14:30 Köln x Werder Bremen\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:00 Athletico-PR x Chapecoense\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br4.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:15 Mallorca x Rayo Vallecano\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:15 Mallorca x Rayo Vallecano\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:30 Leixões x UD Oliveirense\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:30 Alverca x Casa Pia\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 15:45 AZ x Heerenveen\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:15 Toulouse x Lille\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:15 Toulouse x Lille\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd4.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Chelsea x Manchester City\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Chelsea x Manchester City\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Chelsea x Manchester City\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Chelsea x Manchester City\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Chelsea x Manchester City\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Stuttgart x Hamburger SV\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 16:30 Stuttgart x Hamburger SV\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 17:00 Bologna x Lecce\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd7.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 17:00 Golf: Masters 2026 - D4\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 17:30 Celta de Vigo x Real Oviedo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 17:30 Celta de Vigo x Real Oviedo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 17:30 Anderlecht x Gent\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 18:00 Benfica x Nacional\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/btv.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 18:00 Sporting Braga x Arouca\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 18:00 Galatasaray x Kocaelispor\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 18:30 Mainz 05 x Freiburg\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 18:30 Mainz 05 x Freiburg\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:00 Pumas UNAM x Mazatlán\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:00 Sail: Rio Sail GP - D2\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:45 Como x Internazionale\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:45 Como x Internazionale\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd7.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:45 Como x Internazionale\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 19:45 Olympique Lyonnais x Lorient\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd4.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Athletic Club x Villarreal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Athletic Club x Villarreal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Athletic Club x Villarreal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Racing Santander x Almería\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 ES Tunis x Mamelodi Sundowns\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Millonarios x Santa Fe\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Botafogo x Coritiba\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:00 Botafogo x Coritiba\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 20:30 Estoril x Porto\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 21:30 Huracán x Rosario Central\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:00 São Bernardo FC x Fortaleza\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:00 Fluminense x Flamengo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br4.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:10 Deportivo Cali x Llaneros\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:30 Ñublense x Universidad Chile\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:30 Corinthians x Palmeiras\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 22:30 Cruzeiro x RB Bragantino\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 00:00 Racing Club x River Plate\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd8.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 00:00 NBA: Orlando Magic @ Boston Celtics\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 00:00 NBA: Orlando Magic @ Boston Celtics\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 00:20 Atlético Bucaramanga x Boyacá Chicó\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 01:00 Univ. Concepción x Cobresal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 02:00 Toluca x Atlético San Luis\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 02:00 América-MG x Novorizontino\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 02:30 Inter Bogotá x Alianza\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 02:30 NBA: Denver Nuggets @ San Antonio Spurs\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"12Apr 02:30 NBA: Denver Nuggets @ San Antonio Spurs\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 09:45 Boxing: Thanongsak Simsri vs Sergio Mendoza\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 10:00 Tennis - ATP World Tour 500: Barcelona\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 15:45 Al-Ahli x Al Duhail\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 18:00 Eyüpspor x Samsunspor\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 18:00 Lourosa x Porto B\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 19:00 Al Hilal x Al Sadd\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd5.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 19:00 Al Hilal x Al Sadd\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 19:45 Fiorentina x Lazio\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd7.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 19:45 Fiorentina x Lazio\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Manchester United x Leeds United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Manchester United x Leeds United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd11.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Manchester United x Leeds United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Manchester United x Leeds United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/bra/br2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Levante x Getafe\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Levante x Getafe\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd6.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:00 Levante x Getafe\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/eleven2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:15 Tondela x Gil Vicente\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:30 Sarmiento x Gimnasia La Plata\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 20:30 Defensa y Justicia x Talleres Córdoba\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd8.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 22:00 Unión Magdalena x Internacional Palmira\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 23:00 Lanús x Banfield\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd8.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 00:00 NHL: Detroit Red Wings x Tampa Bay Lightning\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 00:05 Patriotas Boyacá x Real Cartagena\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 01:30 Vélez Sarsfield x Central Córdoba SdE\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd9.php\\",\\"type\\":\\"embed\\"}\"},{\"name\":\"13Apr 02:10 Barranquilla x Envigado\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\"url\\":\\"\\",\\"api\\":\\"https://www2.sportzzonline.click/channels/hd/hd10.php\\",\\"type\\":\\"embed\\"}\"}]}
+{"links":[
+  {
+    "name": "Feirense x Vizela Feirense x Vizela",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Fortuna Sittard x NAC Breda Fortuna Sittard x NAC Breda",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Genoa x Sassuolo Genoa x Sassuolo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Genoa x Sassuolo Genoa x Sassuolo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Birmingham City x Wrexham Birmingham City x Wrexham",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Birmingham City x Wrexham Birmingham City x Wrexham",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Falkirk x Rangers Falkirk x Rangers",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Elversberg x Schalke 04 Elversberg x Schalke 04",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Elversberg x Schalke 04 Elversberg x Schalke 04",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Osasuna x Real Betis Osasuna x Real Betis",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Osasuna x Real Betis Osasuna x Real Betis",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NEC x Feyenoord NEC x Feyenoord",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sunderland x Tottenham Hotspur Sunderland x Tottenham Hotspur",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sunderland x Tottenham Hotspur Sunderland x Tottenham Hotspur",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sunderland x Tottenham Hotspur Sunderland x Tottenham Hotspur",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Nottingham Forest x Aston Villa Nottingham Forest x Aston Villa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Nottingham Forest x Aston Villa Nottingham Forest x Aston Villa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Crystal Palace x Newcastle United Crystal Palace x Newcastle United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Parma x Napoli Parma x Napoli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Parma x Napoli Parma x Napoli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Tennis - ATP World Tour 1000: Monte Carlo Tennis - ATP World Tour 1000: Monte Carlo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Tennis - ATP World Tour 1000: Monte Carlo Tennis - ATP World Tour 1000: Monte Carlo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Köln x Werder Bremen Köln x Werder Bremen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Köln x Werder Bremen Köln x Werder Bremen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Athletico-PR x Chapecoense Athletico-PR x Chapecoense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Mallorca x Rayo Vallecano Mallorca x Rayo Vallecano",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Mallorca x Rayo Vallecano Mallorca x Rayo Vallecano",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Leixões x UD Oliveirense Leixões x UD Oliveirense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Alverca x Casa Pia Alverca x Casa Pia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "AZ x Heerenveen AZ x Heerenveen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Toulouse x Lille Toulouse x Lille",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Toulouse x Lille Toulouse x Lille",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Chelsea x Manchester City Chelsea x Manchester City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Chelsea x Manchester City Chelsea x Manchester City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Chelsea x Manchester City Chelsea x Manchester City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Chelsea x Manchester City Chelsea x Manchester City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Chelsea x Manchester City Chelsea x Manchester City",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Stuttgart x Hamburger SV Stuttgart x Hamburger SV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Stuttgart x Hamburger SV Stuttgart x Hamburger SV",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Bologna x Lecce Bologna x Lecce",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Golf: Masters 2026 - D4 Golf: Masters 2026 - D4",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Celta de Vigo x Real Oviedo Celta de Vigo x Real Oviedo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Celta de Vigo x Real Oviedo Celta de Vigo x Real Oviedo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Anderlecht x Gent Anderlecht x Gent",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Benfica x Nacional Benfica x Nacional",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/btv.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sporting Braga x Arouca Sporting Braga x Arouca",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Galatasaray x Kocaelispor Galatasaray x Kocaelispor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Mainz 05 x Freiburg Mainz 05 x Freiburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Mainz 05 x Freiburg Mainz 05 x Freiburg",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Pumas UNAM x Mazatlán Pumas UNAM x Mazatlán",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sail: Rio Sail GP - D2 Sail: Rio Sail GP - D2",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Como x Internazionale Como x Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Como x Internazionale Como x Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Como x Internazionale Como x Internazionale",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Olympique Lyonnais x Lorient Olympique Lyonnais x Lorient",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Athletic Club x Villarreal Athletic Club x Villarreal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Athletic Club x Villarreal Athletic Club x Villarreal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Athletic Club x Villarreal Athletic Club x Villarreal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Racing Santander x Almería Racing Santander x Almería",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "ES Tunis x Mamelodi Sundowns ES Tunis x Mamelodi Sundowns",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Millonarios x Santa Fe Millonarios x Santa Fe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Botafogo x Coritiba Botafogo x Coritiba",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Botafogo x Coritiba Botafogo x Coritiba",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Estoril x Porto Estoril x Porto",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Huracán x Rosario Central Huracán x Rosario Central",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "São Bernardo FC x Fortaleza São Bernardo FC x Fortaleza",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Fluminense x Flamengo Fluminense x Flamengo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Deportivo Cali x Llaneros Deportivo Cali x Llaneros",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Ñublense x Universidad Chile Ñublense x Universidad Chile",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Corinthians x Palmeiras Corinthians x Palmeiras",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Cruzeiro x RB Bragantino Cruzeiro x RB Bragantino",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Racing Club x River Plate Racing Club x River Plate",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NBA: Orlando Magic @ Boston Celtics NBA: Orlando Magic @ Boston Celtics",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NBA: Orlando Magic @ Boston Celtics NBA: Orlando Magic @ Boston Celtics",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Atlético Bucaramanga x Boyacá Chicó Atlético Bucaramanga x Boyacá Chicó",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Univ. Concepción x Cobresal Univ. Concepción x Cobresal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Toluca x Atlético San Luis Toluca x Atlético San Luis",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "América-MG x Novorizontino América-MG x Novorizontino",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Inter Bogotá x Alianza Inter Bogotá x Alianza",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NBA: Denver Nuggets @ San Antonio Spurs NBA: Denver Nuggets @ San Antonio Spurs",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NBA: Denver Nuggets @ San Antonio Spurs NBA: Denver Nuggets @ San Antonio Spurs",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Boxing: Thanongsak Simsri vs Sergio Mendoza Boxing: Thanongsak Simsri vs Sergio Mendoza",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Tennis - ATP World Tour 500: Barcelona Tennis - ATP World Tour 500: Barcelona",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Al-Ahli x Al Duhail Al-Ahli x Al Duhail",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Eyüpspor x Samsunspor Eyüpspor x Samsunspor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Lourosa x Porto B Lourosa x Porto B",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Al Hilal x Al Sadd Al Hilal x Al Sadd",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Al Hilal x Al Sadd Al Hilal x Al Sadd",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Fiorentina x Lazio Fiorentina x Lazio",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Fiorentina x Lazio Fiorentina x Lazio",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Manchester United x Leeds United Manchester United x Leeds United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Manchester United x Leeds United Manchester United x Leeds United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Manchester United x Leeds United Manchester United x Leeds United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Manchester United x Leeds United Manchester United x Leeds United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Levante x Getafe Levante x Getafe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Levante x Getafe Levante x Getafe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Levante x Getafe Levante x Getafe",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Tondela x Gil Vicente Tondela x Gil Vicente",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Sarmiento x Gimnasia La Plata Sarmiento x Gimnasia La Plata",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Defensa y Justicia x Talleres Córdoba Defensa y Justicia x Talleres Córdoba",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Unión Magdalena x Internacional Palmira Unión Magdalena x Internacional Palmira",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Lanús x Banfield Lanús x Banfield",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "NHL: Detroit Red Wings x Tampa Bay Lightning NHL: Detroit Red Wings x Tampa Bay Lightning",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Patriotas Boyacá x Real Cartagena Patriotas Boyacá x Real Cartagena",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Vélez Sarsfield x Central Córdoba SdE Vélez Sarsfield x Central Córdoba SdE",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "Barranquilla x Envigado Barranquilla x Envigado",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://www2.sportzzonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  }
+]}
