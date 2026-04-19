@@ -1,102 +1,102 @@
 {"links":[{
-  "name": "VIVO: 1",
+  "name": "SRV: 1",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/skysportsmainevent/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/skysportsmainevent/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 2",
+  "name": "SRV: 2",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/skysportspremierleague/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/skysportspremierleague/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 3",
+  "name": "SRV: 3",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/beINSPORTS3TR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/beINSPORTS3TR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 4",
+  "name": "SRV: 4",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/DAZN1ES/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/DAZN1ES/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 5",
+  "name": "SRV: 5",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/SkySportTopEvent/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/SkySportTopEvent/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 6",
+  "name": "SRV: 6",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ELEVEN1/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ELEVEN1/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 7",
+  "name": "SRV: 7",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/MLIGADECAMPEONES/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/MLIGADECAMPEONES/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 8",
+  "name": "SRV: 8",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/CLPLExtra1/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/CLPLExtra1/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 9",
+  "name": "SRV: 9",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/CANALPLFR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/CANALPLFR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 10",
+  "name": "SRV: 10",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/FOOTPLUSFR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/FOOTPLUSFR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 11",
+  "name": "SRV: 11",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/Cyta3/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/Cyta3/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 12",
+  "name": "SRV: 12",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ARENASPORT1PREMIUMRS/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ARENASPORT1PREMIUMRS/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 13",
+  "name": "SRV: 13",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 14",
+  "name": "SRV: 14",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/DiemaSport2/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/DiemaSport2/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 15",
+  "name": "SRV: 15",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ESPN1BR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/ESPN1BR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 16",
+  "name": "SRV: 16",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/beINAR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/beINAR/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 },
 {
-  "name": "VIVO: 17",
+  "name": "SRV: 17",
   "link": "",
   "logo": "",
-  "tokenApi": "{\"url\":\"https://wasitv-pro.site/SPORT1IL/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"embed\"}"
+  "tokenApi": "{\"url\":\"https://wasitv-pro.site/SPORT1IL/mono.m3u8|Referer=https://lovetier.bz/\",\"api\":\"\",\"type\":\"token\"}"
 }]}
