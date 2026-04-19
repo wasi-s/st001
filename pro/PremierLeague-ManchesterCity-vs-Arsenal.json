@@ -1,102 +1,85 @@
 {"links":[{
-  "name": "SRV: Sky Sports Main Event UK",
+  "name": "Sky Sports Main Event UK",
   "link": "https://wasitv-pro.site/skysportsmainevent/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Sky Sports Premier League UK",
+  "name": "Sky Sports Premier League UK",
   "link": "https://wasitv-pro.site/skysportspremierleague/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: beIN Sports 3 Turkey",
+  "name": "beIN Sports 3 Turkey",
   "link": "https://wasitv-pro.site/beINSPORTS3TR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: DAZN1 Spain",
+  "name": "DAZN1 Spain",
   "link": "https://wasitv-pro.site/DAZN1ES/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Sky Sport Top Event DE",
+  "name": "Sky Sport Top Event DE",
   "link": "https://wasitv-pro.site/SkySportTopEvent/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Movistar Liga de Campeones",
+  "name": "Movistar Liga de Campeones",
   "link": "https://wasitv-pro.site/MLIGADECAMPEONES/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: DAZN Eleven 1 Portugal",
+  "name": "DAZN Eleven 1 Portugal",
   "link": "https://wasitv-pro.site/ELEVEN1/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Canal+ Extra 1 Poland",
+  "name": "Canal+ Extra 1 Poland",
   "link": "https://wasitv-pro.site/CLPLExtra1/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Canal+ France",
+  "name": "Canal+ France",
   "link": "https://wasitv-pro.site/CANALPLFR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Canal+ Foot France",
+  "name": "Canal+ Foot France",
   "link": "https://wasitv-pro.site/FOOTPLUSFR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Cytavision Sports 3 Cyprus",
+  "name": "Cytavision Sports 3 Cyprus",
   "link": "https://wasitv-pro.site/Cyta3/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Arena 1 Premium Serbia",
+  "name": "Arena 1 Premium Serbia",
   "link": "https://wasitv-pro.site/ARENASPORT1PREMIUMRS/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Arena Sport 1 Croatia",
+  "name": "Arena Sport 1 Croatia",
   "link": "https://wasitv-pro.site/ARENASPORT1HR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Diema Sport 2 Bulgaria",
+  "name": "Diema Sport 2 Bulgaria",
   "link": "https://wasitv-pro.site/DiemaSport2/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: ESPN Brazil",
+  "name": "ESPN Brazil",
   "link": "https://wasitv-pro.site/ESPN1BR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: beIN Sports MENA 1",
+  "name": "beIN Sports MENA 1",
   "link": "https://wasitv-pro.site/beINAR/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 },
 {
-  "name": "SRV: Sport 1 Israel",
+  "name": "Sport 1 Israel",
   "link": "https://wasitv-pro.site/SPORT1IL/mono.m3u8|Referer=https://lovetier.bz/",
-  "logo": "",
-  "tokenApi": "{\"url\":\"\",\"api\":\"\",\"type\":\"token\"}"
+  "tokenApi": ""
 }]}
